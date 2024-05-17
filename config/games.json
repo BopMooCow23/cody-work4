@@ -768,6 +768,11 @@
     "link": "projects/cluster-rush/index.html",
     "imgSrc": "projects/cluster-rush/splash.png",
     "title": "Cluster Rush"
+  },
+  {
+    "link": "projects/ragdoll-archers/index.html",
+    "imgSrc": "projects/ragdoll-archers/logo.png",
+    "title": "Ragdoll Archers (WIP)"
   }
 
 ]
